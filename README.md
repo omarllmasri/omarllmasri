@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @omarllmasri
+- 👋 Hi, I’m Omar
 - 👀 I’m interested in Data 
 - 🌱 I’m currently learning Business and Data analysis
 

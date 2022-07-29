@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @omarllmasri
 - 👀 I’m interested in Data 
-- 🌱 I’m currently learning Business and digital marketing
-- 💞️ I’m looking to collaborate on my learning projects
-- 📫 How to reach me omarllmasri@gmail.com
+- 🌱 I’m currently learning Business and Data analysis
 
 <!---
 omarllmasri/omarllmasri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
